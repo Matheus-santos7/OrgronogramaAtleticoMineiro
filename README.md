@@ -4,9 +4,12 @@
 
 ## Descrição
 
-
-
 Este projeto é um orgrograma do meu time do coração, o Atlético Mineiro, desenvolvido como parte do curso de React - Componentes da Alura. O objetivo é aprender sobre a construção de componentes e a estruturação de uma aplicação em React.
+
+<div align="center">
+    <img src="./public/readme1.png"  width="100%" />
+    <img src="./public/readme2.png"  width="100%" />
+</div>
 
 ## Tecnologias Utilizadas
 
