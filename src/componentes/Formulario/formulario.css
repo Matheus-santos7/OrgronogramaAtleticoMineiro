@@ -8,8 +8,8 @@
 }
 .formulario-container .formulario {
     flex: 1;
-    background: #F7F7F7;
-    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+    background: #141414;
+    box-shadow: 7px 7px 15px #292727;
     border-radius: 20px;
     padding: 36px 64px;
 }
@@ -17,3 +17,4 @@
     font-weight: 400;
     font-size: 32px;
 }
+

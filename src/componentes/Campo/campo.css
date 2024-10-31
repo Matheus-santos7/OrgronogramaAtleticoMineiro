@@ -6,20 +6,23 @@
     display: block;
     margin-bottom: 8px;
     font-size: 24px;
+    color: #FFFFFF ;
 }
 
 .campo input {
-    background: #FFFFFF;
-    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
-    border-radius: 0px;
+    background: #252525;
+    border-radius: 40px;
+    box-shadow: 7px 7px 15px #292727;
     width: 100%;
     border: none;
     font-size: 24px;
     padding: 24px;
     box-sizing: border-box;
+    color: #FFFFFF ;
 }
 
 .campo-color input {
     padding: 4px 24px;
     height: 40px;
+    border-radius: 30px;
 }

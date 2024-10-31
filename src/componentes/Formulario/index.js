@@ -27,26 +27,26 @@ const Formulario = ({aoCadastrar, times, cadrastarTime}) => {
     return (
         <section className="formulario-container">
             <form className="formulario" onSubmit={aoSubmeter}>
-                <h2>Preencha os dados para criar o card do colaborador.</h2>
+                <h2>Preencha os dados para criar o card do jogador.</h2>
                 <Campo
                     obrigatorio={true}
                     label='Nome'
-                    placeholder='Digite seu nome '
+                    placeholder='Digite o nome do jogador '
                     valor={nome}
                     aoAlterado={valor => setNome(valor)}/>
                 <Campo
                     obrigatorio={true}
-                    label='Cargo' 
-                    placeholder='Digite seu cargo '
+                    label='Posição' 
+                    placeholder='Digite a função do jogador'
                     valor={cargo}
                     aoAlterado={valor => setCargo(valor)}/>
                 <Campo 
-                    label='Imagem' 
+                    label='URL da Imagem' 
                     placeholder='Informe o endereço da imagem '
                     aoAlterado={valor => setImagem(valor)}/>
                 <ListaSuspensa 
                     obrigatorio={true}
-                    label='Times'
+                    label='Posição'
                     items={times} 
                     valor={time}
                     aoAlterado={valor => setTime(valor)}/>
@@ -56,11 +56,11 @@ const Formulario = ({aoCadastrar, times, cadrastarTime}) => {
                 evento.preventDefault()
                 cadrastarTime({nome: nomeTime,cor: corTime})
             }  }>
-                <h2>Preencha os dados para criar um novo time.</h2>
+                <h2>Preencha os dados para criar uma nova posição.</h2>
                 <Campo
                     obrigatorio
                     label='Nome'
-                    placeholder='Digite o nome do time'
+                    placeholder='Digite o nome da posição'
                     valor={nomeTime}
                     aoAlterado={valor => setNomeTime(valor)}
                 />

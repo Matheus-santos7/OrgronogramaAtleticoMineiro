@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 146.12 75.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ed1c24;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-3" x="41.06" y="5.7" width="64" height="63.94"/>
+    </clipPath>
+  </defs>
+  <g id="escudo_sao_paulo" data-name="escudo sao paulo">
+    <g class="cls-5">
+      <g id="sao_paulo" data-name="sao paulo">
+        <path id="Vector" class="cls-2" d="M41.06,5.7v24.79l31.99,39.15,32.01-39.15V5.7h-64Z"/>
+        <path id="Vector_2" data-name="Vector 2" class="cls-4" d="M41.48,6.13v24.22l31.57,38.62,31.58-38.62V6.13h-63.15Z"/>
+        <path id="Vector_3" data-name="Vector 3" class="cls-2" d="M78.16,29.12v28.43l23.25-28.43h-23.25Z"/>
+        <path id="Vector_4" data-name="Vector 4" class="cls-1" d="M44.71,29.12l23.26,28.43v-28.43h-23.26Z"/>
+        <path id="Vector_5" data-name="Vector 5" class="cls-2" d="M101.41,9.05h-56.7v17.04h56.7V9.05Z"/>
+        <g id="Group">
+          <path id="Vector_6" data-name="Vector 6" class="cls-4" d="M98.9,15.79v-1.78c0-1.31-1.07-2.38-2.38-2.38h-6.01c-1.31,0-2.38,1.07-2.38,2.38v7.13c0,1.31,1.07,2.38,2.38,2.38h6.01c1.31,0,2.38-1.07,2.38-2.38v-1.78h-2.38v1.19c0,.33-.27.59-.59.59h-4.82c-.33,0-.59-.27-.59-.59v-5.94c0-.33.27-.59.59-.59h4.82c.33,0,.59.27.59.59v1.19h2.38Z"/>
+          <path id="Vector_7" data-name="Vector 7" class="cls-4" d="M47.22,14.01v2.38c0,1.31,1.06,2.38,2.38,2.38h5.41c.32,0,.59.27.59.59v1.19c0,.33-.28.59-.59.59h-7.79v2.38h8.38c1.31,0,2.38-1.07,2.38-2.38v-2.38c0-1.31-1.07-2.38-2.38-2.38h-5.41c-.33,0-.59-.27-.59-.59v-1.19c0-.33.27-.59.59-.59h7.79v-2.38h-8.38c-1.32,0-2.38,1.07-2.38,2.38Z"/>
+          <path id="Vector_8" data-name="Vector 8" class="cls-4" d="M69.25,11.63h-8.38v11.89h2.38v-4.75h6.01c1.31,0,2.37-1.07,2.37-2.38v-2.38c0-1.31-1.06-2.38-2.37-2.38ZM69.25,15.79c0,.33-.28.59-.59.59h-5.41v-2.38h5.41c.32,0,.59.28.59.59v1.19Z"/>
+          <path id="Vector_9" data-name="Vector 9" class="cls-4" d="M74.5,23.52h2.38v-4.75h6.01v-2.38h-6.01v-2.38h8.38v-2.38h-10.76v11.89Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
